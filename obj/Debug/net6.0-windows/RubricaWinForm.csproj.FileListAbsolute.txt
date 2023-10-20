@@ -1,0 +1,16 @@
+C:\Users\15mim\source\repos\RubricaWinForm\bin\Debug\net6.0-windows\RubricaWinForm.exe
+C:\Users\15mim\source\repos\RubricaWinForm\bin\Debug\net6.0-windows\RubricaWinForm.deps.json
+C:\Users\15mim\source\repos\RubricaWinForm\bin\Debug\net6.0-windows\RubricaWinForm.runtimeconfig.json
+C:\Users\15mim\source\repos\RubricaWinForm\bin\Debug\net6.0-windows\RubricaWinForm.dll
+C:\Users\15mim\source\repos\RubricaWinForm\bin\Debug\net6.0-windows\RubricaWinForm.pdb
+C:\Users\15mim\source\repos\RubricaWinForm\obj\Debug\net6.0-windows\RubricaWinForm.csproj.GenerateResource.cache
+C:\Users\15mim\source\repos\RubricaWinForm\obj\Debug\net6.0-windows\RubricaWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15mim\source\repos\RubricaWinForm\obj\Debug\net6.0-windows\RubricaWinForm.AssemblyInfoInputs.cache
+C:\Users\15mim\source\repos\RubricaWinForm\obj\Debug\net6.0-windows\RubricaWinForm.AssemblyInfo.cs
+C:\Users\15mim\source\repos\RubricaWinForm\obj\Debug\net6.0-windows\RubricaWinForm.csproj.CoreCompileInputs.cache
+C:\Users\15mim\source\repos\RubricaWinForm\obj\Debug\net6.0-windows\RubricaWinForm.dll
+C:\Users\15mim\source\repos\RubricaWinForm\obj\Debug\net6.0-windows\refint\RubricaWinForm.dll
+C:\Users\15mim\source\repos\RubricaWinForm\obj\Debug\net6.0-windows\RubricaWinForm.pdb
+C:\Users\15mim\source\repos\RubricaWinForm\obj\Debug\net6.0-windows\RubricaWinForm.genruntimeconfig.cache
+C:\Users\15mim\source\repos\RubricaWinForm\obj\Debug\net6.0-windows\ref\RubricaWinForm.dll
+C:\Users\15mim\source\repos\RubricaWinForm\obj\Debug\net6.0-windows\RubricaWinForm.Rubrica.resources
